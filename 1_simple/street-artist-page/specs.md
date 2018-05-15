@@ -1,4 +1,4 @@
-##Specs
+## Specs
 
 - primary font-family: Raleway, sans-serif;
 - Central title for "About" is font-family: "Segoe UI", Arial, sans-serif;

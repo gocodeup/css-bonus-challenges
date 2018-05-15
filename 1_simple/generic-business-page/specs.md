@@ -1,4 +1,4 @@
-##Specs
+## Specs
 
 - title font-family: "Montserrat", sans-serif;
 - primary font-family: Lato, sans-serif;

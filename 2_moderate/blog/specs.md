@@ -1,4 +1,4 @@
-##Specs
+## Specs
 
 - primary font-family: Raleway, sans-serif;
 - tablet width breakpoint: 992px and below

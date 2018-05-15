@@ -1,4 +1,4 @@
-##Specs
+## Specs
 
 - header font-family: "Segoe UI", Arial, sans-serif;
 - primary font-family: Verdana, sans-serif;

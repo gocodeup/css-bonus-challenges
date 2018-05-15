@@ -1,4 +1,4 @@
-##Specs
+## Specs
 
 - font-family: Roboto, sans-serif;
 - tablet width breakpoint: 992px and below

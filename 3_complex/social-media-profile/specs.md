@@ -1,4 +1,4 @@
-##Specs
+## Specs
 
 - primary font-family: "Open Sans", sans-serif;
 - container for navbar and footer is fluid
